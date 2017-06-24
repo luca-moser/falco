@@ -1,0 +1,9 @@
+*.exe
+*.exe~
+tmp/
+dms.log
+npm-debug.log
+log.txt
+node_modules/
+.idea/
+.vscode/
